@@ -40,3 +40,12 @@ Utilised reference to create lookup table for further analysis and merged querie
 🔹 Comparisn between the different models sold and which product sold the most
 
 🔹 Which city had the most products sold?
+
+
+![image](https://github.com/hibahsalam/Power_BI_Project2/assets/63388880/77a0e3ae-c26a-43db-9247-1f5dd6ab8cf0)
+
+
+
+![image](https://github.com/hibahsalam/Power_BI_Project2/assets/63388880/e3d9ba53-c919-4e38-a83f-0eff2be3bb04)
+
+
