@@ -1,5 +1,21 @@
 # Power_BI_Project2
 
+Step By Step Topics Covered : -
+
+🔸Import Data
+
+🔸Data Cleaning
+
+🔸Data Modeling to demonstrate relations and cardinality
+
+🔸Create Different Methods of Visualizations and Gain Insights
+
+🔸Using Slicers, Table, Cards, Clustered Column Chart, Bookmarks, Buttons, Lookup tables, Filters
+
+🔸Different Background Colors, Visual Border (for rounded corners), and Shadow.
+
+🔸Save the Process and Complete the Report
+
 
 🔆 Dashboard Creation:
 
